@@ -1,0 +1,17 @@
+/* Definir un ID */
+#curso {
+    color:lightcoral
+}
+
+/* Definir una clase */
+.colorRojo {
+    color:red;
+}
+
+.colorAzul {
+    color:blue;
+}
+
+.paises {
+    color:blueviolet;
+}
