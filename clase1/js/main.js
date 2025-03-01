@@ -241,22 +241,3 @@ console.log(paises);
 const elementoLista = document.createElement("li");
 elementoLista.innerHTML = "Colombia";
 paises.appendChild(elementoLista);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
