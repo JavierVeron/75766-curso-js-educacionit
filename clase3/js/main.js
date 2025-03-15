@@ -250,16 +250,3 @@ dropzone.addEventListener("drop", (e) => {
     e.stopPropagation();
     console.log("Solté el elemento!"); 
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
