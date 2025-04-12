@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Clase 8 - Educación IT</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-md-6">
+                <!-- <div id="texto1"></div>
+                <div id="texto2"></div>
+                <p id="texto3"></p> -->
+                <p>
+                    <label for="nombre">Nombre</label>
+                    <input type="text" class="form-control mb-3" id="nombre" value="Matías">
+                </p>
+                <p>
+                    <label for="apellido">Apellido</label>
+                    <input type="text" class="form-control mb-3" id="apellido" value="Quinteros">
+                </p>
+                <p>
+                    <label for="apellido">Email</label>
+                    <input type="text" class="form-control mb-3" id="email" value="matiquinteros@gmail.com">
+                </p>
+                <p>
+                    <label for="apellido">Teléfono</label>
+                    <input type="text" class="form-control mb-3" id="telefono" value="11222333">
+                </p>
+                <p>
+                    <label for="apellido">Sexo</label>
+                    <select id="sexo" class="form-control mb-3">
+                        <option value="Masculino">Masculino</option>
+                        <option value="Femenino">Femenino</option>
+                    </select>
+                </p>
+                <p>
+                    <button class="btn btn-success" onclick="guardarDatos();">Guardar</button>
+                    <button class="btn btn-primary" onclick="recuperarDatos();">Recuperar</button>
+                    <button class="btn btn-danger" onclick="borrarDatos();">Borrar</button>
+                </p>
+                <p id="resultado" class="text-success fw-light my-3"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
