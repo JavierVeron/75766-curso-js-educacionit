@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Gaseosa cola Coca Cola sabor original 2,25 lts",
+      "precio": 3150,
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/332148-1600-auto?v=638211437412370000&width=1600&height=auto&aspect=true"
+    },
+    {
+      "id": 2,
+      "nombre": "Gaseosa cola Coca Cola Zero 1,75 lts",
+      "precio": 3450,
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/395286-1600-auto?v=638326494257370000&width=1600&height=auto&aspect=true"
+    },
+    {
+      "id": 3,
+      "nombre": "Gaseosa cola Coca Cola sabor original en lata 354 ml",
+      "precio": 1800,
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/332150-1600-auto?v=638211437415200000&width=1600&height=auto&aspect=true"
+    },
+    {
+      "id": "77c7",
+      "nombre": "Gaseosa cola Coca Cola regular mini pet 237 ml",
+      "precio": "800",
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/332207-1600-auto?v=638211437576870000&width=1600&height=auto&aspect=true"
+    }
+  ],
+  "carrito": []
+}

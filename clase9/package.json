@@ -1,0 +1,19 @@
+{
+  "name": "clase9",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
